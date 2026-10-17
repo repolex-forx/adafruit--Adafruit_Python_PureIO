@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adafruit/Adafruit_Python_PureIO/commit/bc28777ee0a2b5b4ef51214fb3148dd6bad3f611",
       "git:hexsha": "bc28777ee0a2b5b4ef51214fb3148dd6bad3f611",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.12"
     },
     {
