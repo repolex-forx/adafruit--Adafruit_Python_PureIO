@@ -1,0 +1,11 @@
+{
+  "org": "adafruit",
+  "repo": "Adafruit_Python_PureIO",
+  "versions": [
+    {
+      "commit": "bc28777ee0a2b5b4ef51214fb3148dd6bad3f611",
+      "tag": "1.1.12",
+      "parsed_at": "2026-10-17T23:56:15.135995+00:00"
+    }
+  ]
+}
