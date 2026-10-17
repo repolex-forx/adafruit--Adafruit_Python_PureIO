@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/adafruit/Adafruit_Python_PureIO/commit/bc28777ee0a2b5b4ef51214fb3148dd6bad3f611",
       "git:hexsha": "bc28777ee0a2b5b4ef51214fb3148dd6bad3f611",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.12"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.12",
+      "repolex:parsedAt": "2026-10-17T23:56:15.135461+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adafruit/Adafruit_Python_PureIO/commit/90e73171e3a7400e59be42fab36f4d67506fc9b7",
